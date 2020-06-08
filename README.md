@@ -1,5 +1,5 @@
 # webdriverbots
-Bots that I made with selenium webdriver based in UI automation.
+Bots that I made with selenium webdriver based in UI automation (v1.0).
 
 
 Whatsapp Web and Discord bots included.
