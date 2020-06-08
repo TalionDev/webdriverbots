@@ -290,6 +290,4 @@ elif (option == 2):
             while (i <= num):
                 await cuzin()
                 i = i + 1
-
-
-        asyncio.run(sla())
+         asyncio.run(sla())
