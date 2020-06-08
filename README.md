@@ -1,5 +1,5 @@
-# webdriverbots
-Some bots that I made with selenium webdriver based in UI automation. Whatsapp Web and Discord bots included.
+
+Whatsapp Web and Discord bots included.
 You will need the latest version of python (current python version 3.8.3).
 https://www.python.org/downloads/
 You will need the selenium library for python.
