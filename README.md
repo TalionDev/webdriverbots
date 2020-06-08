@@ -12,3 +12,4 @@ Extract and paste it on
 Linux: /usr/bin or /usr/local/bin
 Windows: \AppData\Local\Programs\Python\Python38-32
 You can use other webdriver but then you will need to change it on the code.
+Enjoy.
